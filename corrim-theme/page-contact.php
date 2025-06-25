@@ -16,8 +16,8 @@ get_header(); ?>
         <h2 class="text-lg font-semibold text-gray-800">Mailing Address</h2>
         <p class="text-gray-600">
           Corrim Company, LLC<br>
-          9710 S. Oakwood Park Drive<br>
-          Oak Creek, WI 53154
+          1870 Stillman Dr<br>
+          Oshkosh, WI 54901, USA
         </p>
       </div>
 
