@@ -1,0 +1,38 @@
+# 💥 Ignore OS/IDE junk
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+
+# 🛠 Node-related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧪 Build artifacts (if using SCSS, PostCSS, etc.)
+dist/
+build/
+*.css.map
+*.js.map
+
+# 🔧 Composer (optional)
+vendor/
+
+
+# 🔐 Env/config
+.env
+.env.local
+.env.production
+.env.*.local
+
+# 💾 Don't version control uploads or generated assets
+uploads/
+assets/uploads/
+assets/images/generated/
+
+# 🚫 Ignore WordPress core/plugin dirs if you ever commit above the theme (not likely but safe)
+wp-admin/
+wp-includes/
+wp-content/plugins/
+wp-content/uploads/
