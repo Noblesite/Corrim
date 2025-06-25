@@ -15,9 +15,9 @@ get_header(); ?>
       <h2 class="text-lg font-semibold text-gray-600 text-center mb-6 uppercase tracking-widest">Trusted by Industry Leaders</h2>
       <div class="flex flex-wrap justify-center items-center gap-6 md:gap-10">
         <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/frito-lay.jpg" alt="Frito-Lay" class="h-10">
-        <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/pfizer.jpg" alt="Pfizer" class="h-10">
-        <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/pepsi.jpg" alt="Pepsi" class="h-10">
-        <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/chobani.jpg" alt="Chobani" class="h-10">
+        <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/Pfizer.jpg" alt="Pfizer" class="h-10">
+        <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/Pepsi.jpg" alt="Pepsi" class="h-10">
+        <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/Chobani.jpg" alt="Chobani" class="h-10">
         <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/merck.jpg" alt="Merck" class="h-10">
         <img src="<?php echo get_template_directory_uri(); ?>/site_assets/logos/temple.jpg" alt="Temple University" class="h-10">
       </div>
