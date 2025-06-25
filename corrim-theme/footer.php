@@ -6,8 +6,8 @@
       <img src="<?php echo get_template_directory_uri(); ?>/site_assets/corrim_40_year_logo.png" alt="Corrim Logo" class="h-10 mb-4">
       <p>
         Corrim Company, LLC<br>
-        2121 South Commercial Street<br>
-        Neenah, WI 54956
+        1870 Stillman Dr<br>
+        Oshkosh, WI 54901, USA
       </p>
       <p class="mt-2">
         <a href="tel:9202312000" class="hover:underline">Phone: (920) 231-2000</a><br>
