@@ -2,8 +2,10 @@
   "name": "corrim",
   "version": "1.0.0",
   "scripts": {
-    "dev": "tailwindcss -i ./assets/css/style.css -o ./dist/style.css --watch"
-  },
+    "dev": "tailwindcss -i ./assets/css/style.css -o ./dist/style.css --watch",
+    "build": "tailwindcss -i ./assets/css/style.css -o ./dist/style.css"
+}
+,
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",
