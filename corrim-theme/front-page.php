@@ -9,11 +9,13 @@
     <p class="mt-6 text-lg text-gray-700">
       Corrim fiberglass doors are trusted in labs, schools, and high-demand environments nationwide.
     </p>
-    <a href="#quote" class="inline-block mt-8 bg-blue-700 text-white px-6 py-3 font-semibold rounded-lg shadow hover:bg-blue-800 transition">
+    <a href="<?php echo esc_url( get_permalink( get_page_by_path( 'quote-request' ) ) ); ?>"
+       class="inline-block mt-8 bg-blue-700 text-white px-6 py-3 font-semibold rounded-lg shadow hover:bg-blue-800 transition">
       Request a Quote
     </a>
   </div>
 </section>
+
 <section class="bg-white py-16 px-4 sm:px-6 lg:px-8">
   <div class="max-w-7xl mx-auto text-center mb-12">
     <h2 class="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Why Choose Corrim?</h2>
