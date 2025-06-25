@@ -16,7 +16,7 @@ get_header(); ?>
 
     <!-- Choice Section -->
     <div class="bg-gray-50 p-8 rounded-lg shadow-lg">
-      <h2 class="text-2xl font-bold mb-6">The Choice Is <span class="text-blue-700">YOUR</span>s</h2>
+      <h2 class="text-2xl font-bold mb-6">The Choice Is <span class="text-blue-700">YOURS</span></h2>
       <ul class="list-disc pl-5 space-y-2 text-gray-700">
         <li>Lifetime corrosion warranty on all FRP doors & frames</li>
         <li>Choose your core: R‑12 PU, balsa impact, polypropylene honeycomb, kraft economy, or mineral (fire)</li>
